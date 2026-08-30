@@ -54,7 +54,7 @@ java -version
 
 1. **Clone or Download** the repository and navigate to the project folder:
 ```bash
-cd path/to/project
+cd Guess-The-Number-Game-Java-
 
 ```
 
